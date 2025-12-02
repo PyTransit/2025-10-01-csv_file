@@ -1,0 +1,1024 @@
+Rome,ROM,1108,Europe,Italie,False
+Paris,PAR,0,Europe,France,False
+London,LON,344,Europe,Royaume-Uni,False
+Barcelona,BCN,830,Europe,Espagne,False
+Bangkok,BKK,9439,Asie,Thaïlande,False
+İstanbul,IST,2253,Europe,Turquie,False
+Berlin,BER,878,Europe,Allemagne,False
+Prague,PRG,882,Europe,République tchèque,False
+Firenze,FLR,885,Europe,Italie,True
+Madrid,MAD,1053,Europe,Espagne,False
+Buenos Aires,BUE,11053,Amérique,Argentine,False
+Orlando,ORL,7226,Amérique,États-Unis,False
+Vienna,VIE,1033,Europe,Autriche,False
+Budapest,BUD,1244,Europe,Hongrie,False
+New York City,NYC,5837,Amérique,États-Unis,False
+Lisbon,LIS,1453,Europe,Portugal,False
+Dubai,DXB,5250,Asie,Émirats Arabes Unis,False
+Tokyo,TYO,9712,Asie,Japon,False
+Amsterdam,AMS,430,Europe,Pays-Bas,False
+Seoul,SEL,8966,Asie,Corée du Sud,False
+Benidorm,ALC,1164,Europe,Espagne,True
+New Delhi,DEL,6586,Asie,Inde,False
+Miami Beach,MIA,7350,Amérique,États-Unis,True
+Playa del Carmen,PCM,8256,Amérique,Mexique,False
+Chiang Mai,CNX,8915,Asie,Thaïlande,False
+Bogotá,BOG,8627,Amérique,Colombie,False
+Rio de Janeiro,RIO,9169,Amérique,Brésil,False
+Houston,HOU,8085,Amérique,États-Unis,False
+Shanghai,SHA,9262,Asie,Chine,False
+Valencia,VLC,1066,Europe,Espagne,False
+Rimini,RMI,946,Europe,Italie,False
+Beijing,BJS,8218,Asie,Chine,False
+Singapore,SIN,10737,Asie,Singapore,False
+Taipei,TPE,9286,Asie,Taïwan,False
+Marrakesh,RAK,2102,Afrique,Maroc,False
+São Paulo,SAO,9402,Amérique,Brésil,False
+Mexico City,MEX,9086,Amérique,Mexique,False
+Edinburgh,EDI,873,Europe,Royaume-Uni,False
+Hà Nội,HAN,9167,Asie,Việt Nam,False
+Khett Siem Reab,SAI,9710,Asie,Việt Nam,False
+Athens,ATH,2096,Europe,Grèce,False
+Santiago,SCL,11647,Amérique,Chili,False
+Toronto,YTO,6000,Amérique,Canada,False
+Playa del Ingles,LPA,2803,Afrique,Espagne,True
+Kraków,KRK,1275,Europe,Pologne,False
+Albufeira,FAO,1564,Europe,Portugal,True
+Hamburg,HAM,745,Europe,Allemagne,False
+Alanya,GZP,2757,Afrique,Turquie,True
+Kuala Lumpur,KUL,10425,Asie,Malaisie,False
+San Francisco,SFO,8953,Amérique,États-Unis,False
+Montréal,YMQ,5506,Amérique,Canada,False
+Marmaris,DLM,2480,Afrique,Turquie,True
+Brussels,BRU,264,Europe,Belgique,False
+Dublin,DUB,779,Europe,Irlande,False
+Funchal,FNC,2401,Afrique,Portugal,False
+Kyoto,OSA,9613,Asie,Japon,True
+Ubud,DPS,12387,Asie,Indonésie,True
+San Antonio,SAT,8318,Amérique,États-Unis,False
+Nice,NCE,686,Europe,France,False
+München,MUC,684,Europe,Allemagne,False
+Réthymno,HER,2348,Europe,Grèce,True
+Lima,LIM,10253,Amérique,Pérou,False
+Paphos,PFO,2914,Europe,Grèce,False
+Punta Cana,PUJ,7065,Amérique,République dominicaine,False
+Side,GCM,7954,Amérique,Îles Caïmans,True
+Vancouver,YVR,7924,Amérique,Canada,False
+Stockholm,STO,1544,Europe,Suède,False
+San Diego,SAN,9149,Amérique,États-Unis,False
+Milan,MIL,640,Europe,Italie,False
+Kuta,DPS,12405,Asie,Indonésie,True
+Cancún,CUN,8195,Amérique,Mexique,False
+Belek,AYT,2670,Asie,Turquie,True
+Porto,OPO,1213,Europe,Portugal,False
+Jakarta,JKT,11586,Asie,Indonésie,False
+Málaga,AGP,1457,Europe,Espagne,False
+Phatthaya,UTP,9539,Asie,Thaïlande,False
+Mumbai,BOM,7010,Asie,Inde,False
+Phnom Penh,PNH,9939,Asie,Việt Nam,False
+Guangzhou,CAN,9499,Asie,Chine,False
+Las Vegas,LAS,8738,Amérique,États-Unis,False
+Salou,REU,870,Europe,Espagne,True
+Sevilla,SVQ,1442,Europe,Espagne,False
+Sorrento,NAP,1316,Europe,Italie,True
+Los Angeles,LAX,9086,Amérique,États-Unis,False
+Cape Town,CPT,9342,Afrique,Afrique du Sud,False
+Ōsaka-shi,OSA,9633,Asie,Japon,False
+Indianapolis,IND,6709,Amérique,États-Unis,False
+Moscow,SVO,2486,Europe,Russie,False
+Atlanta,ATL,7037,Amérique,États-Unis,False
+Blackpool,BLK,667,Europe,Royaume-Uni,False
+Palermo,PMO,1482,Europe,Italie,False
+Fort Lauderdale,FLL,7325,Amérique,États-Unis,False
+Marbella,AGP,1493,Europe,Espagne,True
+Puerto del Carmen,ACE,2602,Afrique,Espagne,True
+Dallas,DFW,7934,Amérique,États-Unis,False
+Ohrid,OHD,1681,Europe,Macédoine,False
+Lloret de Mar,BCN,797,Europe,Espagne,True
+Venezia,VCE,844,Europe,Italie,True
+Hua Hin,HHQ,9504,Asie,Thaïlande,False
+Jaipur,JAI,6611,Asie,Inde,False
+Napoli,NAP,1291,Europe,Italie,False
+Hong Kong,HKG,9616,Asie,Hong Kong,False
+Torremolinos,AGP,1469,Europe,Espagne,True
+Kuşadası,IZM,2340,Asie,Turquie,True
+Ho Chi Minh City,SGN,10122,Asie,Việt Nam,False
+Myrtle Beach,MYR,6667,Amérique,États-Unis,False
+Chicago,CHI,6654,Amérique,États-Unis,False
+Copenhagen,CPN,1027,Europe,Danemark,False
+Dubrovnik,DBV,1399,Europe,Croatie,False
+Puerto Vallarta,PVR,9503,Amérique,Mexique,False
+Warsaw,WAW,1371,Europe,Pologne,False
+Antalya,AYT,2647,Asie,Turquie,False
+Salvador,SAL,4238,Afrique,Cap-Vert,False
+Calgary,YYC,7375,Amérique,Canada,False
+Cartagena,CTG,8250,Amérique,Colombie,False
+Riga,RIX,1703,Europe,Lettonie,False
+Cusco,CUZ,10028,Amérique,Pérou,False
+Abu Dhabi,AZI,5240,Asie,Émirats Arabes Unis,False
+Verona,VRN,755,Europe,Italie,False
+Charlotte,CLT,6686,Amérique,États-Unis,False
+Guadalajara,GDL,9377,Amérique,Mexique,False
+Granada,GRX,1384,Europe,Espagne,False
+Willemstad,CUR,7631,Amérique,Venezuela,True
+Köln,CGN,403,Europe,Allemagne,True
+Bodrum,BJV,2412,Asie,Turquie,False
+Shenzhen,SZX,9600,Asie,Chine,False
+Phoenix,PHX,8802,Amérique,États-Unis,False
+Reykjavík,REK,2233,Europe,Islande,False
+Kralendijk,BON,7579,Amérique,Pays-Bas,False
+Bologna,BLQ,839,Europe,Italie,False
+New Orleans,MSY,7717,Amérique,États-Unis,False
+Palma,PMI,1033,Europe,Espagne,False
+Columbus,CMH,6490,Amérique,États-Unis,False
+Kemer,AYT,2648,Asie,Turquie,True
+Nha Trang,CXR,10177,Asie,Việt Nam,True
+Lyon,LYS,392,Europe,France,False
+Miami,MIA,7355,Amérique,États-Unis,False
+Albuquerque,ABQ,8348,Amérique,États-Unis,False
+Florianópolis,FLN,9888,Amérique,Brésil,False
+Puerto de la Cruz,TFN,2787,Afrique,Espagne,True
+Turin,TRN,584,Europe,Italie,False
+Düsseldorf,DUS,411,Europe,Allemagne,False
+Tampa,TPA,7347,Amérique,États-Unis,False
+Kissimmee,MCO,7246,Amérique,États-Unis,True
+Tucson,TUS,8844,Amérique,États-Unis,False
+Medellín,MDE,8601,Amérique,Colombie,False
+Agadir,AGA,2255,Afrique,Maroc,False
+Nashville,BNA,7016,Amérique,États-Unis,False
+Dresden,DRS,850,Europe,Allemagne,False
+Cannes,NCE,691,Europe,France,True
+Boston,BOS,5531,Amérique,États-Unis,False
+Chaniá,CHQ,2308,Europe,Grèce,True
+Curitiba,CWB,9717,Amérique,Brésil,False
+Kathmandu,KTM,7236,Asie,Népal,False
+Edmonton,YEA,7136,Amérique,Canada,False
+Washington,WAS,6165,Amérique,États-Unis,False
+Hội An,DAD,9804,Asie,Việt Nam,False
+Krabi,KBV,9808,Asie,Thaïlande,False
+Hangzhou,HGH,9274,Asie,Chine,False
+Jacksonville,JAX,7107,Amérique,États-Unis,False
+Brugge,OST,268,Europe,Belgique,True
+Riccione,RMI,956,Europe,Italie,True
+Denver,DEN,7860,Amérique,États-Unis,False
+Toulouse,TLS,589,Europe,France,False
+Anaheim,SNA,9087,Amérique,États-Unis,True
+Seattle,SEA,8041,Amérique,États-Unis,False
+Savannah,SAV,6936,Amérique,États-Unis,False
+Turan,KJA,6038,Asie,Russie,True
+Split,SPU,1235,Europe,Croatie,False
+Busan,PUS,9296,Asie,Corée du Sud,False
+Kiev,IEV,2021,Europe,Ukraine,False
+Fortaleza,FOR,7052,Amérique,Brésil,False
+Belo Horizonte,BHZ,8914,Amérique,Brésil,False
+Quito,UIO,9361,Amérique,Équateur,False
+Austin,AUS,8199,Amérique,États-Unis,False
+San Carlos de Bariloche,BRC,12326,Amérique,Argentine,False
+Fuengirola,AGP,1483,Europe,Espagne,True
+Ágios Nikólaos,JIK,2440,Europe,Grèce,True
+Niagara Falls,IAG,6014,Amérique,États-Unis,False
+Sapporo,SPK,9038,Asie,Japon,False
+Oklahoma City,OKC,7762,Amérique,États-Unis,False
+Kansas City,MCI,7293,Amérique,États-Unis,False
+Salzburg,SZG,799,Europe,Allemagne,False
+York,LBA,615,Europe,Royaume-Uni,True
+Fethiye,DLM,2561,Asie,Turquie,True
+Montecatini-Terme,PSA,850,Europe,Italie,True
+Kota Kinabalu,BKI,11195,Asie,Malaisie,True
+Virginia Beach,ORF,6235,Amérique,États-Unis,True
+Sofia,SOF,1758,Europe,Bulgarie,False
+Marseille,MRS,661,Europe,France,False
+Montevideo,MVD,10963,Amérique,Uruguay,False
+Natal,NAT,7086,Amérique,Brésil,False
+Glasgow,GLA,897,Europe,Royaume-Uni,False
+Zürich,ZRH,488,Europe,Suisse,False
+Benalmádena,AGP,1475,Europe,Espagne,True
+South Lake Tahoe,RNO,8728,Amérique,États-Unis,True
+Fukuoka-shi,FUK,9507,Asie,Japon,False
+Fort Worth,DFW,7970,Amérique,États-Unis,True
+Mestre,VCE,837,Europe,Italie,True
+Louisville,SDF,6794,Amérique,États-Unis,False
+Honolulu,HNL,11968,Amérique,États-Unis,False
+Alicante,ALC,1190,Europe,Espagne,False
+Varadero,VRA,7638,Amérique,Cuba,False
+Naples,NPL,1292,Europe,Italie,False
+Manchester,MAN,605,Europe,Royaume-Uni,False
+Al Ḩammāmāt,NBE,1540,Afrique,Tunisie,False
+Odessa,ODS,2129,Europe,Ukraine,False
+Oslo,OSL,1341,Europe,Norvège,False
+Tulsa,TUL,7612,Amérique,États-Unis,False
+Amman,AMM,3367,Asie,Jordanie,False
+Chennai,MAA,8036,Asie,Inde,False
+Roquetas de Mar,LEI,1404,Europe,Espagne,True
+Riyadh,RUH,4683,Asie,Arabie Saoudite,False
+Chengdu,CTU,8271,Asie,Chine,False
+Bandung,BDO,11702,Asie,Indonésie,False
+Kaohsiung,KHH,9977,Asie,Taïwan,False
+Porto Alegre,POA,10255,Amérique,Brésil,False
+Mérida,MID,8409,Amérique,Mexique,False
+Doha,DOH,4973,Asie,Qatar,False
+Pisa,PSA,843,Europe,Italie,False
+Key West,EYW,7564,Amérique,États-Unis,False
+Arequipa,AQP,10246,Amérique,Pérou,False
+Cochin,COK,8003,Asie,Inde,False
+Hannover,HAJ,650,Europe,Allemagne,False
+Montego Bay,MBJ,7322,Amérique,États-Unis,False
+Lucca,PSA,838,Europe,Italie,True
+Calp,ALC,1151,Europe,Espagne,True
+Bucharest,BUH,1870,Europe,Roumanie,False
+Memphis,MEM,7308,Amérique,États-Unis,False
+Liverpool,LPL,625,Europe,Royaume-Uni,False
+Santa Marta,SMR,8158,Amérique,Colombie,False
+Zanzibar,ZNZ,7088,Afrique,Tanzanie,False
+Tallinn,TLL,1855,Europe,Estonie,False
+Lagos,LOS,4708,Afrique,Nigeria,False
+Siena,FLO,926,Europe,Italie,True
+Sacramento,SAC,8833,Amérique,États-Unis,False
+Irving,DFW,7940,Amérique,États-Unis,True
+Nerja,GRX,1438,Europe,Espagne,True
+Cali,CLO,8906,Amérique,Colombie,False
+Birmingham,BHX,500,Europe,Royaume-Uni,False
+Mendoza,MDZ,11487,Amérique,Argentine,False
+Bratislava,BTS,1088,Europe,Slovénie,False
+Āgra,AGR,6753,Asie,Inde,False
+Belgrade,BEG,1445,Europe,Serbie,False
+Stuttgart,STR,500,Europe,Allemagne,False
+Córdoba,COR,11089,Amérique,Argentine,False
+Assisi,PEG,1021,Europe,Italie,True
+Leipzig,LEJ,765,Europe,Allemagne,False
+Gdańsk,GDN,1275,Europe,Pologne,False
+Antwerpen,ANR,300,Europe,Belgique,False
+Raleigh,RDU,6495,Amérique,États-Unis,False
+Naha-shi,OKA,10062,Asie,Japon,True
+Strasbourg,SXB,398,Europe,France,False
+Scottsdale,SCF,8786,Amérique,États-Unis,False
+Santa Fe,SAF,8255,Amérique,États-Unis,False
+Daytona Beach,DAB,7149,Amérique,États-Unis,False
+Hyderābād,HYD,7553,Asie,Inde,False
+Morelia,MLM,9312,Amérique,Mexique,False
+Salt Lake City,SLC,8152,Amérique,États-Unis,False
+Cascais,CAT,1470,Europe,Italie,False
+Kowloon,HKG,9628,Asie,Hong Kong,True
+Rotterdam,RTM,372,Europe,Pays-Bas,False
+Colorado Springs,COS,7926,Amérique,États-Unis,False
+Jeju,CJU,9333,Asie,Japon,False
+Paramaribo,PBM,7187,Amérique,Suriname,False
+Puno,JUL,10073,Amérique,Pérou,True
+San Miguel de Allende,QRO,9179,Amérique,Mexique,False
+Guayaquil,GYE,9628,Amérique,Équateur,False
+Portland,PDX,8247,Amérique,États-Unis,False
+Knoxville,TYS,6840,Amérique,États-Unis,False
+El Paso,ELP,8622,Amérique,États-Unis,False
+Bordeaux,BOD,499,Europe,France,False
+Chattanooga,CHA,7002,Amérique,États-Unis,False
+Bournemouth,BOH,367,Europe,Royaume-Uni,False
+Columbia,CAE,6789,Amérique,États-Unis,False
+Bergamo,BGY,654,Europe,Italie,False
+Cabo San Lucas,SJD,9604,Amérique,Mexique,False
+Ponta Delgada,PDL,2543,Europe,Portugal,False
+Nagoya-shi,NGO,9645,Asie,Japon,True
+Philadelphia,PHL,5966,Amérique,États-Unis,False
+Suzhou,SZV,9207,Asie,Chine,False
+Vilnius,VNO,1696,Europe,Lituanie,False
+San Juan,SJU,6907,Amérique,Puerto Rico,False
+Victoria,SEZ,7845,Afrique,Seychelles,False
+Huế,HUI,9703,Asie,Việt Nam,False
+Springfield,SFY,6270,Amérique,États-Unis,False
+Charleston,CHS,8749,Amérique,États-Unis,False
+Palm Springs,PSP,9012,Amérique,États-Unis,False
+Monterey,MTY,8750,Amérique,Mexique,False
+Pune,PNQ,7125,Asie,Inde,False
+İzmir,IZM,2292,Asie,Turquie,False
+The Hague,RTM,382,Europe,Pays-Bas,True
+Durham,RDU,711,Europe,Royaume-Uni,False
+Jackson,JAC,7539,Amérique,États-Unis,False
+Trapani,TPS,1457,Europe,Italie,False
+Brasília,BSB,8725,Amérique,Brésil,False
+Ottawa,YOW,5649,Amérique,Canada,False
+Omaha,OMA,7209,Amérique,États-Unis,False
+Wichita,ICT,7573,Amérique,États-Unis,False
+Pittsburgh,PIT,6257,Amérique,États-Unis,False
+Cha-am,BKK,9486,Asie,Thaïlande,True
+Tianjin,TSN,8316,Asie,Chine,False
+Ankara,ANK,2598,Asie,Turquie,False
+Taichung,RMQ,9859,Asie,Taïwan,True
+Corpus Christi,CRP,8380,Amérique,États-Unis,False
+Gurgaon,DEL,6586,Asie,Inde,True
+Manama,BAH,4832,Asie,Bahreïn,False
+Brighton,LGW,283,Europe,Royaume-Uni,True
+Santa Barbara,SBA,9127,Amérique,États-Unis,False
+San Andrés,ADZ,8525,Amérique,Colombie,False
+Mississauga,YYZ,6023,Amérique,Canada,True
+Bristol,BRS,455,Europe,Royaume-Uni,False
+Catania,CTA,1628,Europe,Italie,False
+Foz do Iguaçu,IGU,10011,Amérique,Brésil,False
+Baton Rouge,BTR,7750,Amérique,États-Unis,False
+San Cristóbal de Las Casas,SCY,8973,Amérique,Mexique,False
+Porto Seguro,BPS,8332,Amérique,Brésil,False
+Zadar,ZAD,1117,Europe,Croatie,False
+Torquay,EXT,459,Europe,Royaume-Uni,True
+Calangute,GOI,7359,Asie,Inde,True
+Manila,MNL,10744,Asie,Philippines,False
+Nanjing,NKG,9038,Asie,Chine,False
+Qingdao,TAO,8767,Asie,Chine,False
+Lexington,LEX,6728,Amérique,États-Unis,False
+Maastricht,MST,326,Europe,Pays-Bas,False
+Essaouira,ESU,2180,Afrique,Maroc,False
+Campos do Jordão,GRU,9271,Amérique,Brésil,True
+Alghero,AHO,1036,Europe,Italie,True
+Augusta,AGS,6893,Amérique,États-Unis,False
+Protaras,LCA,3010,Europe,Chypre,True
+Alcúdia,PMI,1004,Europe,Espagne,True
+Kōbe-shi,UKB,9620,Asie,Japon,False
+Maceió,MCZ,7496,Amérique,Brésil,False
+Zaragoza,ZAZ,940,Europe,Espagne,False
+Frankfurt am Main,FRA,477,Europe,Allemagne,False
+Baltimore,BWI,8621,Amérique,États-Unis,False
+Fresno,FAT,8917,Amérique,États-Unis,False
+Mazatlán,MZT,9352,Amérique,Mexique,False
+San José,SJO,8968,Amérique,États-Unis,False
+Montgomery,MGM,7272,Amérique,États-Unis,False
+Limassol,LCA,2963,Europe,Chypre,True
+Cattolica,BLQ,964,Europe,Italie,True
+Helsinki,HEL,1908,Europe,Finlande,False
+Cleveland,CLE,6296,Amérique,États-Unis,False
+Thessaloníki,SKG,1856,Europe,Grèce,False
+Fort Myers,RSW,7407,Amérique,États-Unis,False
+Fredericksburg,SAT,6237,Amérique,États-Unis,True
+Sarajevo,SJJ,1349,Europe,Bosnie-Herzégovine,False
+Anchorage,ANC,7526,Amérique,États-Unis,False
+Lubbock,LBB,8186,Amérique,États-Unis,False
+Richmond,RIC,6287,Amérique,États-Unis,False
+Tallahassee,TLH,7282,Amérique,États-Unis,False
+Perugia,PEG,1004,Europe,Italie,False
+Macon,MCN,7054,Amérique,États-Unis,False
+Ischia,NAP,1283,Europe,Italie,True
+San Jose,SJC,8968,Amérique,États-Unis,False
+Winnipeg,YWG,6627,Amérique,Canada,False
+Poznań,POZ,1098,Europe,Pologne,False
+Bremen,BRE,651,Europe,Allemagne,False
+Christchurch,CHC,19062,Océanie,Nouvelle-Zélande,False
+St. Louis,STL,7053,Amérique,États-Unis,False
+Nantes,NTE,343,Europe,France,False
+Montpellier,MPL,596,Europe,France,False
+Madison,MSN,6674,Amérique,États-Unis,False
+Sanya,SYX,9684,Asie,Chine,False
+Asheville,AVL,6775,Amérique,États-Unis,False
+Lecce,BDS,1565,Europe,Italie,True
+Viareggio,PSA,821,Europe,Italie,True
+Ahmadābād,AMD,6677,Asie,Inde,False
+Yokohama-shi,HND,9736,Asie,Japon,True
+Brooklyn,JFK,5837,Amérique,États-Unis,False
+Zagreb,ZAG,1080,Europe,Croatie,False
+Göteborg,GOT,1171,Europe,Suède,False
+Cincinnati,CVG,6648,Amérique,États-Unis,False
+Lincoln,LNK,7288,Amérique,États-Unis,False
+Pokhara,PKR,7103,Asie,Népal,False
+Puerto Princesa,PPS,11037,Asie,Philippines,False
+Greenville,GSP,6418,Amérique,États-Unis,False
+Gaillimh,GWY,934,Europe,Irlande,False
+Adeje,TFS,2824,Afrique,Espagne,True
+Essen,DUS,440,Europe,Allemagne,True
+Bakersfield,BFL,9005,Amérique,États-Unis,False
+Valparaíso,VPS,11672,Amérique,Chili,False
+Greensboro,GSO,6552,Amérique,États-Unis,False
+Padova,TSF,817,Europe,Italie,True
+Newcastle upon Tyne,NCL,732,Europe,Royaume-Uni,False
+Siracusa,SYR,1675,Europe,Italie,False
+Santiago de Compostela,SCQ,1072,Europe,Espagne,False
+Avignon,AVN,578,Europe,France,False
+Desenzano del Garda,VRN,724,Europe,Italie,True
+Monterrey,MTY,8750,Amérique,Mexique,False
+Managua,MGA,8893,Amérique,Nicaragua,False
+Milwaukee,MKE,6584,Amérique,États-Unis,False
+Québec,YQB,5505,Amérique,Canada,False
+Bonn,CGN,400,Europe,Allemagne,True
+Negombo,CMB,8490,Asie,Sri Lanka,True
+Bath,BRS,437,Europe,Royaume-Uni,False
+Flagstaff,FLG,8624,Amérique,États-Unis,False
+Louangphabang,LPQ,9041,Asie,Laos,False
+Newport,NPT,486,Europe,Royaume-Uni,False
+Malgrat de Mar,GRO,802,Europe,Espagne,True
+Trogir,SPU,1260,Europe,Croatie,True
+Recife,REC,7294,Amérique,Brésil,False
+Johor Bahru,JHB,10715,Asie,Malaisie,False
+Salta,SLA,10580,Amérique,Argentine,False
+Cuenca,CUE,9620,Amérique,Équateur,False
+Lille,LIL,203,Europe,France,False
+Amarillo,AMA,8048,Amérique,Mexique,False
+Clearwater,PIE,7340,Amérique,États-Unis,True
+Bloomington,BMI,6780,Amérique,États-Unis,True
+Balneário Camboriú,NVT,9834,Amérique,Brésil,True
+Florence,FLR,886,Europe,Italie,False
+Zakopane,KRK,1280,Europe,Pologne,True
+Cesenatico,FRL,926,Europe,Italie,True
+Kolkata,CCU,7855,Asie,Indonésie,False
+Xi’an,XIY,8274,Asie,Chine,False
+Muscat,MCT,5600,Asie,Oman,False
+Long Beach,LGB,9105,Amérique,États-Unis,False
+Arlington,DCA,7957,Amérique,États-Unis,True
+Sarasota,SRQ,7400,Amérique,États-Unis,False
+Galveston,HOU,8085,Amérique,États-Unis,True
+Antigua Guatemala,GUA,9015,Amérique,Guatemala,True
+Portimão,FAO,1573,Europe,Portugal,True
+Melbourne,MEL,16791,Océanie,Australie,False
+Manaus,MAO,8306,Amérique,Brésil,False
+Hiroshima-shi,HIJ,9524,Asie,Japon,False
+Little Rock,LIT,7486,Amérique,États-Unis,False
+Aberdeen,ABZ,968,Europe,Royaume-Uni,False
+Cagliari,CAG,1198,Europe,Italie,False
+Boise,BOI,8121,Amérique,États-Unis,False
+Bend,SBN,8322,Amérique,États-Unis,False
+Kuching,KCH,11178,Asie,Malaisie,False
+Veracruz,VER,9010,Amérique,Mexique,False
+Leeds,LBA,624,Europe,Royaume-Uni,False
+Cuernavaca,TLC,9246,Amérique,Mexique,True
+Malmö,MMA,1041,Europe,Suède,False
+Reading,LGW,374,Europe,Royaume-Uni,True
+Mobile,MOB,7521,Amérique,États-Unis,False
+Innsbruck,INN,694,Europe,Autriche,False
+Ragusa,CIY,1662,Europe,Italie,True
+Cervia,MXP,918,Europe,Italie,True
+Kazan,KZN,3205,Asie,Russie,False
+Sharjah,SHJ,5243,Asie,Émirats Arabes Unis,False
+Macau,MFM,9598,Asie,Macau,False
+Bilbao,BIO,744,Europe,Espagne,False
+Oviedo,OVD,881,Europe,Espagne,False
+Ontario,ONT,6001,Amérique,Canada,False
+Dayton,DAY,6582,Amérique,États-Unis,False
+Fargo,FAR,6831,Amérique,États-Unis,False
+Guanajuato,BJX,9205,Amérique,Mexique,False
+Kamloops,YKA,7679,Amérique,Canada,False
+Harrisburg,MDT,6061,Amérique,États-Unis,False
+Sitges,BCN,848,Europe,Espagne,True
+Lourdes,LDE,667,Europe,France,False
+Vilamoura,FAO,1559,Europe,Portugal,True
+L'viv,LWO,1569,Europe,Pologne,False
+Colombo,CMB,514,Asie,Sri Lanka,False
+Auckland,AKL,18545,Océanie,Nouvelle-Zélande,False
+Preah Seihanouk,KOS,9913,Asie,Cambodge,False
+Oostende,OST,266,Europe,Belgique,False
+Pensacola,PNS,7479,Amérique,États-Unis,False
+Karlovy Vary,KLV,774,Europe,République tchèque,True
+Scarborough,TAB,632,Europe,Royaume-Uni,False
+Havana,HAV,7721,Amérique,Cuba,False
+Brno,BRQ,1039,Europe,République tchèque,False
+Utrecht,AMS,410,Europe,Pays-Bas,True
+Grand Rapids,GRR,6450,Amérique,États-Unis,False
+Donostia / San Sebastián,EAS,701,Europe,Espagne,False
+North Charleston,CHS,6800,Amérique,États-Unis,False
+Santa Monica,SMO,9102,Amérique,États-Unis,False
+Toledo,TOL,6406,Amérique,États-Unis,False
+Rapid City,RAP,7407,Amérique,États-Unis,False
+Arles,FNI,602,Europe,France,True
+Somerset,BRS,16497,Océanie,Australie,True
+Sant Antoni de Portmany,IBZ,1101,Europe,Espagne,True
+Dhaka,DAC,7910,Asie,Bangladesh,False
+Barranquilla,BAQ,8152,Amérique,Colombie,False
+Ningbo,NGB,9390,Asie,Chine,False
+João Pessoa,JPA,7201,Amérique,Brésil,False
+Yogyakarta,JOG,11975,Asie,Inde,False
+Xiamen,XMN,9675,Asie,Chine,False
+Las Palmas de Gran Canaria,LPA,2765,Afrique,Espagne,False
+Belfast,BFS,855,Europe,Royaume-Uni,False
+Trieste,TRS,932,Europe,Italie,False
+Sioux Falls,FSD,7077,Amérique,États-Unis,False
+Heidelberg,FRA,465,Europe,Allemagne,True
+Wilmington,ILM,6559,Amérique,États-Unis,False
+West Palm Beach,PBI,7273,Amérique,États-Unis,False
+Napa,APC,8898,Amérique,États-Unis,False
+Larnaca,LCA,2985,Europe,Chypre,False
+Estepona,AGP,1510,Europe,Espagne,True
+Saint-Malo,DNR,320,Europe,France,True
+Atlantic City,ACY,5955,Amérique,États-Unis,False
+Biarritz,BIQ,669,Europe,France,False
+Manali,KUU,6317,Asie,Inde,False
+Jesolo,VCE,860,Europe,Italie,True
+Colonia del Sacramento,SAC,11008,Amérique,Uruguay,False
+Carvoeiro,FAO,1243,Europe,Italie,True
+Asunción,ASU,10160,Amérique,Paraguay,False
+Goiânia,GYN,8885,Amérique,Brésil,False
+Oakland,OAK,8943,Amérique,États-Unis,False
+Overland Park,MCI,7308,Amérique,États-Unis,True
+Tours,TUF,204,Europe,France,False
+Cambridge,CBG,404,Europe,Royaume-Uni,False
+Eastbourne,LGW,261,Europe,Royaume-Uni,True
+Redding,RDD,8691,Amérique,États-Unis,False
+Como,BGY,610,Europe,Italie,True
+Agrigento,CIY,1571,Europe,Italie,True
+Ronda,AGP,1478,Europe,Espagne,True
+Hengchun,TPE,9982,Asie,Taïwan,True
+Cairo,CAI,3209,Afrique,Égypte,False
+Makassar,UPG,12391,Asie,Inde,False
+La Paz,LPB,10028,Amérique,Bolivie,False
+San Salvador,SSA,8977,Amérique,Guatemala,False
+Udaipur,UDR,6638,Asie,Inde,False
+Gijón,OVD,853,Europe,Espagne,True
+Gent,BRU,263,Europe,Belgique,True
+Chesapeake,ORF,6263,Amérique,États-Unis,True
+Spokane,GEG,7809,Amérique,États-Unis,False
+Reims,CDG,130,Europe,France,True
+Sousse,MIR,1599,Afrique,Tunisie,True
+Eugene,EUG,8401,Amérique,États-Unis,False
+Clermont-Ferrand,CFE,347,Europe,France,False
+Ferrara,BLQ,645,Europe,Italie,True
+Billings,BIL,7549,Amérique,États-Unis,False
+Ubatuba,SJK,9313,Amérique,Brésil,True
+Luxembourg,LUX,294,Europe,Luxembourg,False
+Munnar,COK,8048,Asie,Inde,True
+Olbia,OLB,1049,Europe,Italie,False
+Merano,BZO,701,Europe,Italie,False
+Calella,GRO,805,Europe,Espagne,True
+Blankenberge,OST,279,Europe,Belgique,True
+Abano Terme,VCE,812,Europe,Italie,True
+Shenyang,SHE,8407,Asie,Chine,False
+Incheon,ICN,8963,Asie,Corée du Sud,False
+Tijuana,TIJ,9158,Amérique,Mexique,False
+Trujillo,TRU,10063,Amérique,Pérou,False
+Krasnodar,KRR,2787,Europe,Russie,False
+Minneapolis,MIN,6768,Amérique,États-Unis,False
+Nottingham,EMA,512,Europe,Royaume-Uni,True
+Winston-Salem,INT,6582,Amérique,États-Unis,True
+Tempe,PHX,8795,Amérique,États-Unis,True
+Clarksville,BNA,7027,Amérique,États-Unis,True
+Green Bay,GRB,6486,Amérique,États-Unis,False
+Davenport,MCO,6860,Amérique,États-Unis,False
+La Spezia,PSA,778,Europe,Italie,True
+Phuket,HKT,9786,Asie,Thaïlande,False
+Calvià,PMI,1035,Europe,Espagne,False
+San Luis Obispo,SBO,9097,Amérique,États-Unis,False
+Ilhabela,GRU,9359,Amérique,Brésil,True
+Kos,KGS,2405,Europe,Grèce,False
+Surabaya,SUB,12099,Asie,Inde,False
+Beirut,BEY,3190,Asie,Liban,False
+Semarang,SRG,11910,Asie,Indonésie,False
+Dortmund,DTM,469,Europe,Allemagne,False
+Aracaju,AJU,7685,Amérique,Brésil,False
+Sheffield,DSA,569,Europe,Royaume-Uni,False
+Iquitos,IQT,9280,Amérique,Pérou,False
+Ljubljana,LJU,964,Europe,Slovénie,False
+Reno,RNO,8665,Amérique,États-Unis,False
+Eindhoven,EIN,362,Europe,Pays-Bas,False
+Saskatoon,YXE,6942,Amérique,Canada,False
+Santa Rosa,STS,8905,Amérique,États-Unis,False
+Salamanca,SLM,9238,Amérique,Mexique,False
+Oxford,OXF,411,Europe,Royaume-Uni,False
+Yuma,YUM,9009,Amérique,États-Unis,False
+Carmel,MRY,6691,Amérique,États-Unis,False
+College Park,BWI,6153,Amérique,États-Unis,True
+Pompei,NAP,1312,Europe,Italie,True
+Newquay,NQY,557,Europe,Royaume-Uni,False
+Chongqing,CKG,8521,Asie,Chine,False
+Amritsar,ATQ,858,Europe,Royaume-Uni,False
+Jodhpur,JDH,6458,Asie,Indonésie,False
+Mysore,MYQ,7849,Asie,Inde,False
+Varna,VAR,2059,Europe,Bulgarie,False
+Cardiff,CWL,493,Europe,Royaume-Uni,False
+Buffalo,BUF,6019,Amérique,États-Unis,False
+Plano,DFW,7908,Amérique,États-Unis,True
+Rennes,RNS,308,Europe,France,False
+Vientiane,VTE,9236,Asie,Laos,False
+Huntsville,HSV,7111,Amérique,États-Unis,False
+Norwich,NWI,426,Europe,Royaume-Uni,False
+Basel,BSL,413,Europe,Suisse,False
+Nîmes,FNI,579,Europe,France,False
+Aix-en-Provence,MRS,638,Europe,France,True
+Ravenna,FRL,898,Europe,Italie,True
+Kelowna,YLW,7714,Amérique,Canada,False
+Evansville,EVV,6932,Amérique,États-Unis,False
+Rochester,ROC,6792,Amérique,États-Unis,False
+Schaumburg,ORD,6697,Amérique,États-Unis,True
+Plymouth,PLH,497,Europe,Royaume-Uni,False
+Takayama,NGO,9568,Asie,Japon,False
+Santa Cruz,VVI,9820,Amérique,Bolivie,False
+Ushuaia,USH,13269,Amérique,Argentine,False
+Carcassonne,CCF,627,Europe,France,False
+Ibiza,IBZ,1101,Europe,Espagne,False
+Biloxi,GPT,7601,Amérique,États-Unis,False
+Inverness,INV,1053,Europe,Royaume-Uni,False
+Sopot,GDN,1684,Europe,Roumanie,True
+Seaside,ECP,9033,Amérique,États-Unis,False
+Ostuni,BDS,1498,Europe,Italie,True
+Orvieto,PEG,1018,Europe,Italie,True
+Wuhan,WUH,8907,Asie,Chine,False
+Dalian,DLC,8576,Asie,Chine,False
+Rosario,ROS,11026,Amérique,Argentine,False
+Ipoh,IPH,10255,Asie,Malaisie,False
+Nara-shi,ITM,9647,Asie,Japon,False
+Fort Wayne,FWA,6549,Amérique,États-Unis,False
+Graz,GRZ,994,Europe,Autriche,False
+Jerez de la Frontera,XRY,1518,Europe,Espagne,False
+Fayetteville,XNA,7503,Amérique,États-Unis,False
+Pamplona,PNA,739,Europe,Espagne,False
+Parma,PMF,755,Europe,Italie,False
+Alexandria,HBE,3031,Afrique,Égypte,False
+McAllen,MFE,8567,Amérique,États-Unis,False
+Cedar Rapids,CID,6895,Amérique,États-Unis,False
+Abilene,ABI,8148,Amérique,États-Unis,False
+Trier,LUX,327,Europe,Luxembourg,True
+Las Cruces,ELP,8592,Amérique,États-Unis,False
+Roanoke,ROA,6476,Amérique,États-Unis,False
+Antibes,NCE,691,Europe,France,True
+Decatur,DEC,6883,Amérique,États-Unis,False
+Bismarck,BIS,7057,Amérique,États-Unis,False
+Grand Junction,GJT,8118,Amérique,États-Unis,False
+San Bartolomé,ACE,2593,Afrique,Espgane,True
+Covington,ATL,6651,Amérique,États-Unis,True
+Hot Springs,HOT,7560,Amérique,États-Unis,False
+Medan,KNO,10168,Asie,Indonésie,True
+Detroit,DTT,6326,Amérique,États-Unis,False
+Aguascalientes,AGU,9200,Amérique,Mexique,False
+Wrocław,WRO,1077,Europe,Pologne,False
+Petaling Jaya,KUL,10421,Asie,Malaisie,True
+Mesa,AZA,8790,Amérique,États-Unis,False
+Vigo,VGO,1132,Europe,Espagne,False
+Karlsruhe,FKB,442,Europe,Allemagne,True
+Newark,EWR,5847,Amérique,États-Unis,False
+Wiesbaden,FRA,447,Europe,Allemagne,True
+Shreveport,SHV,7757,Amérique,États-Unis,False
+Rostock,RLG,894,Europe,Allemagne,False
+Groningen,GRQ,597,Europe,Pays-Bas,False
+Brownsville,BRO,8544,Amérique,États-Unis,False
+Phan Thiết,SGN,10215,Asie,Việt Nam,False
+Dijon,LIG,263,Europe,France,True
+Potsdam,BER,851,Europe,Allemagne,True
+Limoges,LIG,345,Europe,France,False
+South Bend,SBN,6577,Amérique,États-Unis,False
+Lakeland,LAL,7304,Amérique,États-Unis,False
+Al Ghardaqah,HRG,3609,Afrique,Égypte,True
+College Station,CLL,8078,Amérique,États-Unis,False
+Leuven,BRU,281,Europe,Belgique,True
+Missoula,MSO,7729,Amérique,États-Unis,False
+Rotorua,ROT,18727,Océanie,Nouvelle-Zélande,False
+Bossier City,SHV,7753,Amérique,États-Unis,False
+San José del Cabo,SJD,9576,Amérique,Mexique,False
+Mantova,VRN,760,Europe,Italie,True
+State College,SCE,6091,Amérique,États-Unis,False
+Kennesaw,ATL,7032,Amérique,États-Unis,False
+Princeton,TTN,5898,Amérique,États-Unis,False
+Tbilisi,TBS,3371,Asie,Géorgie,False
+San Luis Potosí,SLP,9091,Amérique,Mexique,False
+San Pedro Sula,SAP,8743,Amérique,Guatemala,False
+Dongguan,SZX,9538,Asie,Chine,False
+Villahermosa,VSA,8886,Amérique,Mexique,False
+Valladolid,VLL,973,Europe,Espagne,False
+Timişoara,TSR,1460,Europe,Roumanie,False
+Haifa,HFA,3236,Asie,Israël,False
+Bergen,BGO,212,Europe,Belgique,False
+Campeche,CPE,8564,Amérique,Mexique,False
+Burgos,RGS,863,Europe,Espagne,False
+Grenoble,GNB,482,Europe,France,False
+Sunnyvale,SFO,8972,Amérique,États-Unis,True
+Kandy,CMB,8541,Asie,Sri Lanka,True
+Perpignan,PGF,686,Europe,France,False
+Cabo Frio,CFB,9109,Amérique,Brésil,False
+Wichita Falls,SPS,7950,Amérique,États-Unis,False
+Ooty,CJB,7912,Asie,Inde,True
+Albany,ALB,5692,Amérique,États-Unis,False
+Arezzo,PEG,947,Europe,Italie,True
+Luimneach,DUB,979,Europe,Irlande,True
+Chiang Rai,CEI,8915,Asie,Thaïlande,False
+Marsala,PMO,1473,Europe,Italie,True
+Chester,LPL,605,Europe,Royaume-Uni,True
+Kalamazoo,AZO,6492,Amérique,États-Unis,False
+Jaisalmer,JSA,6257,Asie,Inde,False
+South San Francisco,SFO,8964,Amérique,États-Unis,True
+Great Yarmouth,NWI,419,Europe,Royaume-Uni,True
+Matera,BRI,1444,Europe,Italie,False
+Marietta,ATL,7033,Amérique,États-Unis,False
+Anderson,GSP,6654,Amérique,États-Unis,False
+Baden-Baden,FKB,432,Europe,Allemagne,False
+Grand Forks,GFK,6766,Amérique,États-Unis,False
+Sterling,ORH,6184,Amérique,États-Unis,False
+Beaune,LYS,275,Europe,France,True
+Gallipoli,BDS,1575,Europe,Italie,True
+Ixtapa,ZIH,9492,Europe,Mexique,False
+Quezon City,MNL,10743,Asie,Philippines,False
+Nairobi,NBO,6483,Afrique,Kenya,False
+Santo Domingo,SDQ,7188,Amérique,République dominicaine,False
+Campinas,CPV,9361,Amérique,Brésil,False
+Skopje,SKP,1668,Europe,Macédoine,False
+Pereira,PEI,8731,Asie,Colombie,False
+Kaunas,KUN,1619,Europe,Lituanie,False
+Halifax,YHZ,4885,Amérique,Canada,False
+Viña del Mar,SCL,11667,Amérique,Chili,False
+Henderson,BLD,8733,Amérique,États-Unis,False
+Laredo,LRD,8543,Amérique,États-Unis,False
+Derby,DCN,526,Europe,Royaume-Uni,False
+Newport News,PHF,6252,Amérique,États-Unis,False
+Regensburg,MUC,712,Europe,Allemagne,True
+Waco,ACT,8056,Amérique,États-Unis,True
+Independence,INB,7238,Amérique,États-Unis,False
+Lansing,LAN,6395,Amérique,États-Unis,False
+Clinton,CLK,6302,Amérique,États-Unis,False
+Tyler,TYR,7872,Amérique,États-Unis,False
+Tuscaloosa,BHX,7294,Amérique,États-Unis,True
+Harrogate,LBA,631,Europe,Royaume-Uni,True
+Canton,CAN,9503,Asie,Chine,False
+Lake Charles,LCH,6822,Amérique,États-Unis,False
+Saint Charles,STL,7050,Amérique,États-Unis,True
+Franklin,FKL,7040,Amérique,États-Unis,False
+Lancaster,LNS,9021,Amérique,États-Unis,False
+New Braunfels,SAT,8271,Amérique,États-Unis,False
+Palm Desert,PSP,9015,Amérique,États-Unis,False
+Sciacca,TPS,1529,Europe,Italie,True
+Hanover,HAJ,651,Europe,Pays-Bas,False
+Bozeman,BZN,7687,Amérique,États-Unis,False
+Lugano,LUG,589,Europe,Suisse,False
+Garmisch-Partenkirchen,INN,667,Europe,Autriche,True
+Cortona,PEG,967,Europe,Italie,True
+Chandīgarh,IXC,6398,Asie,Inde,False
+Chihuahua,CUU,8866,Amérique,Mexique,False
+Cuiabá,CGB,9183,Amérique,Brésil,False
+Tuxtla Gutiérrez,TGZ,9005,Amérique,Mexique,False
+Cluj-Napoca,CLG,1597,Europe,Roumanie,False
+Guarujá,CGH,9425,Amérique,Brésil,True
+Southampton,SOU,352,Europe,Royaume-Uni,False
+Norfolk,ORF,17494,Océanie,Australie,False
+Chandler,AZA,8801,Amérique,États-Unis,True
+Kiel,LBC,811,Europe,Allemagne,True
+Kassel,KSF,578,Europe,Allemagne,False
+Brescia,BGY,699,Europe,Italie,True
+Santander,SDR,764,Europe,Espagne,False
+Angers,ANE,265,Europe,France,False
+Casablanca,CMN,1887,Afrique,Maroc,False
+Mar del Plata,MDQ,11314,Amérique,Argentine,False
+Wellington,WLG,18986,Océanie,Nouvelle-Zélande,False
+Des Moines,DSM,6924,Amérique,États-Unis,False
+Cork,ORK,838,Europe,Royaume-Uni,False
+Bern,BRN,435,Europe,Allemagne,False
+Braga,OPO,1169,Europe,Portugal,True
+Jeddah,JED,4445,Asie,Arabie Saoudite,False
+Accra,ACC,4816,Afrique,Ghana,False
+Ciudad Juárez,CJS,8625,Amérique,Mexique,False
+Bursa,YEI,2310,Asie,Turquie,False
+Belém,BEL,7410,Amérique,Brésil,False
+Vārānasi,VNS,7256,Asie,Inde,False
+Murcia,RMU,1240,Europe,Espagne,False
+Tirana,TIA,1600,Europe,Albanie,False
+Bari,BRI,1425,Europe,Italie,False
+Vitória,VIX,8773,Amérique,Brésil,False
+Coventry,CVT,480,Europe,Royaume-Uni,False
+Aachen,MST,342,Europe,Allemagne,True
+Freiburg,BSL,417,Europe,Allemagne,True
+Lübeck,LBC,802,Europe,Allemagne,False
+Akron,CAK,6314,Amérique,États-Unis,False
+Brest,BES,505,Europe,France,False
+Orléans,ORY,111,Europe,France,False
+Lausanne,GVF,413,Europe,Suisse,False
+Johannesburg,JNB,8729,Afrique,Afrique du Sud,False
+Novosibirsk,OVB,5089,Asie,Russie,False
+Suigen,HSF,8976,Asie,Corée du Sud,True
+Samara,KUF,3311,Asie,Russie,False
+Srīnagar,SXR,7522,Asie,Inde,False
+Kingston,KIN,7726,Amérique,Jamaïque,False
+Pekanbaru,PKU,10628,Asie,Indonésie,False
+Hermosillo,HMO,9122,Amérique,Mexique,False
+Sandakan,SDK,11329,Asie,Malaisie,False
+Stockton,SCK,8882,Amérique,États-Unis,False
+Braşov,GHV,1784,Europe,Roumanie,True
+Chula Vista,SAN,9152,Amérique,États-Unis,False
+Tampere,TMP,1939,Europe,Finlande,False
+Mainz,FRA,446,Europe,Allemagne,True
+Piraeus,ATH,2093,Europe,Grèce,True
+Le Mans,LME,185,Europe,France,False
+Metz,ETZ,281,Europe,France,False
+Navi Mumbai,NMI,7023,Asie,Inde,False
+Kitakyūshū,KKJ,9501,Asie,Japon,False
+Chişinău,RMO,1963,Europe,Moldavie,False
+Saltillo,SLW,8815,Amérique,États-Unis,False
+Bucaramanga,BGA,8350,Amérique,Colombie,False
+Astana,NQZ,4757,Asie,Kazakhstan,False
+Plovdiv,PDV,1889,Europe,Bulgarie,False
+Aurora,GUA,7858,Amérique,États-Unis,False
+Augsburg,AGB,630,Europe,Allemagne,False
+Novi Sad,BEG,1403,Europe,Serbie,False
+Irvine,SNA,9098,Amérique,États-Unis,False
+Erfurt,ERF,664,Europe,Allemagne,False
+Tacoma,SEA,8078,Amérique,États-Unis,True
+Rouen,URO,112,Europe,France,False
+Mulhouse,BSL,389,Europe,France,True
+Adelaide,ADL,16142,Océanie,Australie,False
+Port Elizabeth,PLZ,7016,Amérique,Saint-Vincent et les Grenadines,False
+Brisbane,BNE,16557,Océanie,Australie,False
+Ribeirão Preto,RAO,9235,Amérique,Brésil,False
+Culiacán,CUL,9281,Amérique,Mexique,False
+Toluca,TLC,9244,Amérique,Mexique,False
+Mannheim,MHG,450,Europe,Allemagne,False
+Santa Cruz de Tenerife,TCI,2769,Afrique,Espagne,False
+Almería,LEI,1030,Europe,Espagne,False
+Le Havre,LEH,178,Europe,France,False
+Modena,BLQ,803,Europe,Italie,False
+Sydney,SYD,16962,Océanie,Australie,False
+Zhengzhou,CGO,8509,Asie,Chine,False
+Mandalay,MDL,8450,Asie,Malaisie,False
+León,LEN,9225,Amérique,Mexique,False
+Fès,FEZ,1756,Afrique,Maroc,False
+Changzhou,CZX,9130,Asie,Chine,False
+Tegucigalpa,TGU,9000,Amérique,Honduras,False
+Balikpapan,BPN,11877,Asie,Indonésie,False
+Bochum,DTM,453,Europe,Allemagne,True
+Manizales,MZL,8697,Amérique,Colombie,False
+Riverside,ONT,9049,Amérique,États-Unis,True
+Noida,DEL,6620,Asie,Inde,True
+Glendale,PHX,8800,Amérique,États-Unis,True
+Alcalá de Henares,MAD,1034,Europe,Espagne,True
+Prato,FLR,869,Europe,Italie,True
+Breda,EIN,349,Europe,Pays-Bas,True
+Oceanside,CLD,9117,Amérique,États-Unis,False
+Nijmegen,NRN,500,Europe,Pays-Bas,False
+Livorno,PSA,851,Europe,Italie,True
+Haarlem,AMS,423,Europe,Pays-Bas,True
+Saint Petersburg,LED,2164,Europe,Russie,False
+Dar es Salaam,DAR,7152,Afrique,Tanzanie,False
+Jinan,TNA,8531,Asie,Chine,False
+Pretoria,PRY,8689,Afrique,Afrique du Sud,False
+Davao,DVO,11719,Asie,Philippines,False
+Baku,BAK,3813,Asie,Azerbaïdjan,False
+Wuxi,WUX,9167,Asie,Chine,False
+Thiruvananthapuram,TRV,8173,Asie,Inde,False
+Londrina,LDB,9617,Amérique,Brésil,False
+Kaliningrad,KGD,1464,Europe,Russie,False
+Nagasaki-shi,NGS,9559,Asie,Japon,False
+Surrey,LHR,337,Europe,Royaume-Uni,True
+Wuppertal,DUS,436,Europe,Allemagne,True
+Bielefeld,PAD,425,Europe,Allemagne,True
+Jersey City,EWR,4841,Amérique,États-Unis,True
+Århus,AAR,969,Europe,Danemark,False
+Nassau,NAS,7205,Amérique,Bahamas,False
+San Bernardino,SBD,9029,Amérique,États-Unis,False
+Luton,LTN,385,Europe,Royaume-Uni,False
+Liège,LGG,304,Europe,Belgique,False
+Hoofddorp,AMS,417,Europe,Pays-Bas,False
+Caracas,CCS,7618,Amérique,Colombie,False
+Changsha,CSX,9038,Asie,Chine,False
+Almaty,ALA,5535,Asie,Kazakhstan,False
+São Luís,SLZ,7261,Amérique,Brésil,False
+Malang,MLG,12156,Asie,Indonésie,False
+Mexicali,MXL,9067,Amérique,États-Unis,False
+Torreón,TRC,8962,Amérique,Mexique,False
+Nürnberg,NUE,638,Europe,Allemagne,False
+Joinville,JOI,9779,Amérique,Brésil,False
+Manado,MDC,12175,Asie,Indonésie,False
+Brampton,NCL,6023,Amérique,États-Unis,False
+Szczecin,SZZ,989,Europe,Pologne,False
+Arusha,JRO,6685,Afrique,Tanzanie,True
+Santa Ana,SNA,9093,Amérique,États-Unis,False
+Gdynia,GDN,1281,Europe,Pologne,False
+Braunschweig,BWE,690,Europe,Allemagne,False
+Nicosia,ECN,2949,Europe,Chypre,False
+Hat Yai,HDY,10013,Asie,Thaïlande,False
+Preston,LYH,649,Europe,Royaume-Uni,False
+Huntington Beach,SNA,9108,Amérique,États-Unis,False
+Garden Grove,SNA,9094,Amérique,États-Unis,True
+Arnhem,NRN,429,Europe,Pays-Bas,True
+Amersfoort,AMS,425,Europe,Pays-Bas,True
+Coimbra,OPO,1284,Europe,Portugal,True
+Rabat,RBA,1816,Afrique,Maroc,False
+Vadodara,BDQ,6778,Asie,Inde,False
+Hefei,HFE,8970,Asie,Chine,False
+Dayan,LJG,9895,Asie,Chine,True
+Zapopan,GDL,9372,Amérique,Mexique,False
+Hamamatsu,FSZ,9729,Asie,Japon,True
+Abuja,ABV,4451,Afrique,Nigeria,False
+Vladivostok,VVO,8666,Asie,Russie,False
+Bīkāner,BKB,6349,Asie,Inde,False
+Uberlândia,UDI,9044,Amérique,Brésil,False
+Duisburg,DUS,425,Europe,Allemagne,False
+Lublin,LUZ,1463,Europe,Pologne,False
+Katowice,KTW,1210,Europe,Pologne,False
+Bradford,LBA,616,Europe,Royaume-Uni,False
+Northampton,LTN,441,Europe,Royaume-Uni,True
+Turku,TKU,1803,Europe,Finlande,False
+Szeged,TSR,1363,Europe,Hongrie,True
+Besançon,GVA,327,Europe,France,True
+Nāgpur,NAG,7299,Asie,Inde,False
+Tashkent,TAS,5147,Asie,Ouzbekistan,False
+Perth,PER,14278,Océanie,Australie,False
+Kampala,EBB,6124,Afrique,Ouganda,True
+Fuzhou,FOC,9606,Asie,Chine,False
+Guiyang,KWE,8783,Asie,Chine,False
+Guarulhos,GRU,9386,Amérique,Brésil,False
+Guatemala City,GUA,8903,Amérique,Guatemala,False
+São José dos Campos,SJK,9328,Amérique,Brésil,False
+Hamilton,YHM,6057,Amérique,Canada,False
+Santos,SDU,9426,Amérique,Brésil,False
+Kuantan,KUA,10486,Asie,Malaisie,False
+Messina,REG,1589,Europe,Italie,True
+Košice,KSC,1381,Europe,Slovaquie,False
+Magdeburg,BER,750,Europe,Allemagne,True
+Jamaica,KIN,5825,Amérique,États-Unis,False
+Fremont,SJC,8953,Amérique,États-Unis,False
+Modesto,SCK,8897,Amérique,États-Unis,False
+Oxnard,SBA,9121,Amérique,États-Unis,True
+Saint-Étienne,EBU,410,Europe,France,True
+Plzeň,PRG,805,Europe,République tchèque,True
+Amiens,BVA,115,Europe,France,True
+Salerno,QSR,1336,Europe,Italie,True
+Addis Ababa,ADD,5573,Afrique,Éthiopie,False
+Dakar,DSS,4207,Afrique,Sénégal,False
+Indore,IDR,6938,Asie,Inde,False
+Ludhiāna,LUH,6330,Asie,Inde,False
+Medina,MED,4220,Asie,Arabie Saoudite,False
+Port-au-Prince,PAP,7356,Amérique,Haïti,False
+Farīdābād,DEL,6609,Asie,Inde,True
+Kunming,KMG,8650,Asie,Chine,False
+Chiba,NRT,9738,Asie,Japon,True
+Madurai,IXM,8141,Asie,Inde,False
+Padang,PDG,10672,Asie,Indonésie,False
+Łódź,LCJ,1254,Europe,Pologne,False
+Bhubaneshwar,BBI,7858,Asie,Inde,False
+Campo Grande,CGR,9544,Amérique,Brésil,False
+Tunis,TUN,1481,Afrique,Tunisie,False
+Tangier,TNG,1599,Afrique,Maroc,False
+Bydgoszcz,BZG,1190,Europe,Pologne,False
+Leicester,EMA,486,Europe,Royaume-Uni,True
+Constanţa,CND,2066,Europe,Roumanie,False
+Hull,HUY,575,Europe,Royaume-Uni,True
+Chemnitz,DRS,789,Europe,Allemagne,True
+Toruń,BZG,1226,Europe,Pologne,True
+Taranto,BDS,1499,Europe,Italie,True
+Vantaa,HEL,1921,Europe,Finlande,True
+Mülheim (Ruhr),DUS,431,Europe,Allemagne,True
+Toulon,TLN,694,Europe,France,False
+Neuß,DUS,405,Europe,Allemagne,True
+Apeldoorn,NRN,452,Europe,Pays-Bas,True
+Harbin,HRB,8193,Asie,Chine,False
+Sūrat,STV,6838,Asie,Inde,False
+Changchun,CGQ,8306,Asie,Chine,False
+Algiers,ALG,1347,Afrique,Algérie,False
+Tangerang,JKT,11567,Asie,Indonésie,True
+Lusaka,LUN,7590,Afrique,Zambie,False
+Coimbatore,CJB,7965,Asie,Inde,False
+Cúcuta,CUC,8241,Amérique,Colombie,False
+Oran,ORN,1483,Afrique,Algérie,False
+Kitchener,YKF,6089,Amérique,États-Unis,False
+Gifu-shi,NKM,9617,Asie,Japon,True
+Iloilo,ILO,11196,Asie,Philippines,False
+São José do Rio Preto,SJP,9283,Amérique,Brésil,False
+Bauru,JTC,9411,Amérique,Brésil,True
+Samarqand,SKD,5088,Asie,Ouzbekistan,False
+Gelsenkirchen,HHN,448,Europe,Allemagne,True
+Espoo,HEL,1897,Europe,Finlande,True
+Wolverhampton,EMA,521,Europe,Royaume-Uni,True
+Krefeld,DUS,407,Europe,Allemagne,True
+Elche,ALC,1203,Europe,Espagne,True
+Worcester,BHX,5588,Amérique,États-Unis,False
+Providence,PVD,5589,Amérique,États-Unis,False
+Port Saint Lucie,PBI,7248,Amérique,États-Unis,True
+Oulu,OUL,2252,Europe,Finlande,False
+Durban,DUR,9204,Afrique,Afrique du Sud,False
+Zhongshan,MFM,9557,Asie,Chine,True
+Lucknow,LKO,6989,Asie,Inde,False
+Kawasaki,NRT,9730,Asie,Japon,True
+Adana,COV,2960,Asie,Turquie,True
+Rājkot,HSR,6603,Asie,Inde,False
+Gaziantep,GZT,3101,Asie,Turquie,False
+Konya,KYA,2702,Asie,Turquie,False
+Bogor,JKT,11611,Asie,Indonésie,True
+Dammam,DMM,4781,Asie,Arabie Saoudite,False
+Subang Jaya,SZB,10385,Asie,Malaisie,False
+Shah Alam,SZB,10387,Asie,Malaisie,True
+Laval,LVA,5509,Amérique,États-Unis,False
+Udon Thani,UTH,9295,Asie,Thaïlande,False
+Garland,YYB,7913,Amérique,États-Unis,False
+Oberhausen,DUS,436,Europe,Allemagne,True
+Si Racha,LDB,9523,Asie,Thaïlande,True
+Osnabrück,FMO,553,Europe,Allemagne,True
+Rancho Cucamonga,ONT,9045,Amérique,États-Unis,True
+Namur,CRL,255,Europe,Belgique,True
+Taiyuan,TYN,8181,Asie,Chine,False
+Nanchang,KHN,9168,Asie,Chine,False
+Bhopāl,BHO,7011,Asie,Inde,False
+Harare,HRE,7940,Afrique,Zimbabwe,False
+Yekaterinburg,SVX,3885,Asie,Russie,False
+Goyang,GMP,8950,Asie,Corée du Sud,False
+Cochabamba,CBB,9976,Amérique,Bolivie,False
+Bishkek,FRU,5419,Asie,Kirgyzstan,False
+Sakai,FUJ,9642,Asie,Japon,True
+Yaroslavl',IAR,2621,Europe,Russie,False
+Sorocaba,VCP,9439,Amérique,Brésil,True
+Meknès,FEZ,1787,Afrique,Maroc,True
+Reynosa,REX,8593,Amérique,Mexique,False
+Himeji,KIX,9584,Asie,Japon,False
+Staten Island,EWR,5855,Amérique,États-Unis,True
+Durango,DRO,740,Europe,Espagne,False
+Niterói,SDU,9162,Amérique,Brésil,True
+Pontianak,PNK,11242,Asie,Indonésie,False
+Cagayan de Oro,CGY,11524,Asie,Philippines,False
+Kurashiki,OKJ,9567,Asie,Japon,False
+Fukuyama,HIJ,9558,Asie,Japon,True
+Sochi,AER,2903,Europe,Russie,False
+Jundiaí,QDV,9380,Amérique,Brésil,False
+Ostrava,OSR,1157,Europe,République tchèque,False
+Münster,FMO,507,Europe,Allemagne,True
+Ploieşti,OTP,1841,Europe,Roumanie,False
+Oradea,OMR,1467,Europe,Roumanie,False
+Debrecen,DEB,1432,Europe,Roumanie,False
+Tilburg,EIN,358,Europe,Pays-Bas,True
+Hagen,DUS,459,Europe,Allemagne,True
+Fontana,ONT,9039,Amérique,États-Unis,True
+Olsztyn,SZY,1368,Europe,Pologne,True
+Leverkusen,CGN,411,Europe,Allemagne,True
+Pécs,BUD,1231,Europe,Hongrie,True
+Setúba,LIS,1459,Europe,Portugal,True
